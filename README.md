@@ -1,10 +1,22 @@
 # markdown-setting
 
-[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) の拡張機能の設定ファイル
 
 ```
-::: info, success, warning, danger
-hoge
+::: info
+info
+:::
+
+::: success
+success
+:::
+
+::: warning
+warning
+:::
+
+::: danger
+danger
 :::
 ```
 
